@@ -49,7 +49,7 @@ I learn best by trying things hands on, figuring out what went wrong, and writin
 
 ## How am I IRL
 
-When I'm away from doing some tech stuff, I'm usually either listening to music or playing games. Naturally, I also enjoy the idea of running my own services instead of relying on someone else's setup for everything, this is the whole reason why I'm **LOVE** self hosting. 
+When I'm away from doing some tech stuff, I'm usually either listening to music or playing games. Naturally, I also enjoy the idea of running my own services instead of relying on someone else's setup for everything, this is the whole reason why I **LOVE** self hosting. 
 
 ---
 
