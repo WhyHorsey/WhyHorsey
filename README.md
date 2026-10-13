@@ -26,10 +26,10 @@ I like understanding **why something works**, not just copying a command and hop
 - 🐧 Linux system administration and the FOSS ecosystem
 - 🔐 Cybersecurity fundamentals and learning how systems can be secured
 - 🌐 Networking, SSH, and understanding how devices communicate
-- 🏠 Self-hosting, Docker, and maintaining a small homelab
-- 📝 Writing useful documentation instead of relying on memory alone
+- 🏠 Self-hosting, Docker, and maintaining a homelab
+- 📝 Writing useful documentation and notes for my setup instead of relying on memory alone (I'm very forgetful lol)
 
-## My everyday toolbox
+## Tools that I used
 
 <p>
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
@@ -45,11 +45,11 @@ These are tools I use or am actively learning, not a claim that I'm an expert in
 
 ## How I like to learn
 
-I learn best by trying things hands-on, figuring out what went wrong, and writing down what I discover. My notes aim to answer more than just **“what command should I run?”** They should also explain **what it does, why it works, what it changes, and what to watch out for**.
+I learn best by trying things hands on, figuring out what went wrong, and writing down what I discover. My notes aim to answer more than just **“what command should I run?”** They should also explain **what it does, why it works, what it changes, and what to watch out for**. This is especially useful when I sometimes get overwhelmed by the amount of information that I'm getting.
 
-## A little beyond tech
+## How am I IRL
 
-When I'm away from the terminal, I'm usually listening to music or playing games. Naturally, I also enjoy the idea of running my own services instead of relying on someone else's setup for everything. 
+When I'm away from doing some tech stuff, I'm usually either listening to music or playing games. Naturally, I also enjoy the idea of running my own services instead of relying on someone else's setup for everything, this is the whole reason why I'm **LOVE** self hosting. 
 
 ---
 
