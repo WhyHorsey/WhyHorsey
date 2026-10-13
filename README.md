@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm WhyHorsey 👋</h1>
 
-<!--
-**WhyHorsey/WhyHorsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Cybersecurity student · Linux & FOSS enthusiast · Homelab tinkerer</strong><br />
+  <em>Learning by building, breaking, documenting, and fixing things.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Hey! I'm **Galang**, a student exploring the world of **cybersecurity, Linux, and free and open-source software**.
+
+I'm still early in the journey, so this profile isn't a showcase of me knowing everything. It's more like a public notebook of the things I'm learning, building, configuring, and occasionally troubleshooting at 2 AM.
+
+I like understanding **why something works**, not just copying a command and hoping for the best. That means documenting the process, keeping track of mistakes, and writing notes that make sense to future me (and hopefully to someone else, too).
+
+## What I'm working on
+
+- 📚 **[linux-notes](https://github.com/WhyHorsey/linux-notes)** — Personal notes on Linux, Git, SSH, and networking. I try to explain things in a way that's useful to a beginner, with analogies and practical lessons from my own learning process.
+- ⚙️ **[dotfiles](https://github.com/WhyHorsey/dotfiles)** — My Linux configuration collection, including shell and terminal tools, desktop tweaks, and other settings. I use GNU Stow to manage the configurations.
+- 🖥️ **[acer-homelab](https://github.com/WhyHorsey/acer-homelab)** — A work-in-progress log of my small home server: self-hosted services, Docker Compose, remote access, backups, and the lessons that come with keeping everything running.
+
+## Things I'm interested in
+
+- 🐧 Linux system administration and the FOSS ecosystem
+- 🔐 Cybersecurity fundamentals and learning how systems can be secured
+- 🌐 Networking, SSH, and understanding how devices communicate
+- 🏠 Self-hosting, Docker, and maintaining a small homelab
+- 📝 Writing useful documentation instead of relying on memory alone
+
+## My everyday toolbox
+
+<p>
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="SSH" src="https://img.shields.io/badge/SSH-222222?style=flat-square&logo=openssh&logoColor=white" />
+</p>
+
+These are tools I use or am actively learning—not a claim that I'm an expert in all of them.
+
+## How I like to learn
+
+I learn best by trying things hands-on, figuring out what went wrong, and writing down what I discover. My notes aim to answer more than just **“what command should I run?”** They should also explain **what it does, why it works, what it changes, and what to watch out for**.
+
+## A little beyond tech
+
+When I'm away from the terminal, I'm usually listening to music or playing games. Naturally, I also enjoy the idea of running my own services instead of relying on someone else's setup for everything. 😄
+
+---
+
+<p align="center">
+  <em>Still learning, still tinkering, and documenting the journey as I go.</em><br />
+  Thanks for stopping by!
+</p>
+
