@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm WhyHorsey 👋</h1>
+<h1 align="center">Hey there!, I'm WhyHorsey 👋</h1>
 
 <p align="center">
   <strong>Cybersecurity student · Linux & FOSS enthusiast · Homelab tinkerer</strong><br />
@@ -9,9 +9,9 @@
 
 ## About me
 
-Hey! I'm **Galang**, a student exploring the world of **cybersecurity, Linux, and free and open-source software**.
+I usually go by **WhyHorsey** online, but my real name is **Galang**, a student exploring the world of **cybersecurity, Linux, and free and open-source software**.
 
-I'm still early in the journey, so this profile isn't a showcase of me knowing everything. It's more like a public notebook of the things I'm learning, building, configuring, and occasionally troubleshooting at 2 AM.
+I'm still *really* early in the journey, so this profile isn't a showcase of me knowing everything. It's more like a public notebook of the things I'm learning, building, configuring, and occasionally troubleshooting at 2 AM (lol).
 
 I like understanding **why something works**, not just copying a command and hoping for the best. That means documenting the process, keeping track of mistakes, and writing notes that make sense to future me (and hopefully to someone else, too).
 
@@ -41,7 +41,7 @@ I like understanding **why something works**, not just copying a command and hop
   <img alt="SSH" src="https://img.shields.io/badge/SSH-222222?style=flat-square&logo=openssh&logoColor=white" />
 </p>
 
-These are tools I use or am actively learning—not a claim that I'm an expert in all of them.
+These are tools I use or am actively learning, not a claim that I'm an expert in all of them.
 
 ## How I like to learn
 
@@ -49,7 +49,7 @@ I learn best by trying things hands-on, figuring out what went wrong, and writin
 
 ## A little beyond tech
 
-When I'm away from the terminal, I'm usually listening to music or playing games. Naturally, I also enjoy the idea of running my own services instead of relying on someone else's setup for everything. 😄
+When I'm away from the terminal, I'm usually listening to music or playing games. Naturally, I also enjoy the idea of running my own services instead of relying on someone else's setup for everything. 
 
 ---
 
