@@ -1,7 +1,7 @@
 <h1 align="center">Hey there!, I'm WhyHorsey! 👋</h1>
 
 <p align="center">
-  <strong>Cybersecurity student · Linux & FOSS enthusiast · Homelab tinkerer</strong><br />
+  <strong>Cybersecurity Student · Linux & FOSS Enthusiast · Homelab Tinkerer</strong><br />
   <em>Learning by building, breaking, documenting, and fixing things.</em>
 </p>
 
