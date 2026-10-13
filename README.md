@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!, I'm WhyHorsey 👋</h1>
+<h1 align="center">Hey there!, I'm WhyHorsey! 👋</h1>
 
 <p align="center">
   <strong>Cybersecurity student · Linux & FOSS enthusiast · Homelab tinkerer</strong><br />
@@ -17,8 +17,8 @@ I like understanding **why something works**, not just copying a command and hop
 
 ## What I'm working on
 
-- 📚 **[linux-notes](https://github.com/WhyHorsey/linux-notes)** — Personal notes on Linux, Git, SSH, and networking. I try to explain things in a way that's useful to a beginner, with analogies and practical lessons from my own learning process.
-- ⚙️ **[dotfiles](https://github.com/WhyHorsey/dotfiles)** — My Linux configuration collection, including shell and terminal tools, desktop tweaks, and other settings. I use GNU Stow to manage the configurations.
+- 📚 **[linux-notes](https://github.com/WhyHorsey/linux-notes)** — Personal notes on Linux, Git, SSH, and networking. I try to explain things in a way that's makes sense to me, but I also try not to make it too complicated either, this means that the notes will sometimes be filled with analogies and practical lessons from my own learning process.
+- ⚙️ **[dotfiles](https://github.com/WhyHorsey/dotfiles)** — My Linux configuration, a *"rice"* setup, if you wanna call it that maybe, including shell and terminal tools, desktop tweaks, and other settings. I use GNU Stow to manage the configurations.
 - 🖥️ **[acer-homelab](https://github.com/WhyHorsey/acer-homelab)** — A work-in-progress log of my small home server: self-hosted services, Docker Compose, remote access, backups, and the lessons that come with keeping everything running.
 
 ## Things I'm interested in
